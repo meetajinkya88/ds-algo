@@ -1,0 +1,35 @@
+Rules:
+
+1) Every node is either Red or Black.
+2) Root is always Black.
+3) New Insertion is always Red.
+4) Evry path from Root to Leaf has same no of Black nodes.
+5) No Path can have 2 consecutive Red nodes.
+6) Nulls are always Black.
+
+As a part of Rebalncing Tree: 
+
+Black Aunt Rotate: BAR
+
+e.g After Rotation
+
+       Black
+        / \
+       /   \
+     Red  Red
+
+
+Red Aunt Color Flip
+
+e.g After color flip
+
+       
+        Red
+        / \
+       /   \
+     Black  Black
+       
+
+
+
+

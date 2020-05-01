@@ -1,0 +1,95 @@
+
+ Selected K: 6
+
+
+
+
+
+ Path is:  7 -1
+
+
+
+
+
+
+ Selected K: 9
+
+
+ Path is:  4 5
+
+
+
+
+ Path is:  2 3 4
+
+ Path is:  7 2 3 -3
+
+
+ Path is:  9
+
+ Path is:  7 2
+
+ Selected K: 18
+
+
+
+
+
+
+
+
+
+ Path is:  7 2 9
+
+
+ Selected K: 2
+
+
+
+
+
+
+
+ Path is:  2 3 -3
+
+
+
+ Path is:  2
+
+ Selected K: -2
+
+
+
+ Path is:  -1 -5 4
+
+
+
+
+
+
+
+
+ Selected K: 0
+
+
+
+
+
+
+
+ Path is:  3 -3
+
+
+
+
+ Selected K: -999
+
+
+
+
+
+
+
+
+
+
